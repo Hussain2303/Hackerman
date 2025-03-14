@@ -7,7 +7,7 @@ html, body {
     background-position: center;
     background-repeat: no-repeat;
     background-color: black;
-    color: green;
+    color: rgb(213, 17, 17);
     height: 100%;
     width: 100%;
 }
@@ -17,12 +17,12 @@ html, body {
     margin-left: 500px;
     font-size: 19px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: green;
+    color: rgb(252, 252, 252);
     font-weight: bold;
 }
 
 h1 {
     width: 100%;
-    color: white;
+    color: rgb(216, 20, 20);
     margin-left: 480px;
 }
