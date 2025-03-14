@@ -1,0 +1,28 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url("https://img.freepik.com/free-vector/stream-binary-code-design-vector_53876-164420.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
+    color: green;
+    height: 100%;
+    width: 100%;
+}
+
+#text {
+    width: 100%;
+    margin-left: 500px;
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: green;
+    font-weight: bold;
+}
+
+h1 {
+    width: 100%;
+    color: white;
+    margin-left: 480px;
+}
